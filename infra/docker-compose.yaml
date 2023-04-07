@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    build: /home/evgeniy/infra_sp2/api_yamdb/
+    image: evgenferrum/yamdb:latest
     restart: always
     volumes:
       - static_value:/app/static/
