@@ -4,7 +4,7 @@
 ### Технологии
 Python, Django, DRF, Docker, Linux, GitHub Actions
 
-### Проект доступен по [ссылке](51.250.90.73)
+### Проект доступен по [ссылке](158.160.102.3)
 
 ![yamdb workflow](https://github.com/Evgeniy-Golodnykh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
