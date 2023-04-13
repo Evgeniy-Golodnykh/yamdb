@@ -1,6 +1,6 @@
 # Yamdb API Docker GitHub Actions
 ### Описание
-Запуск проекта YaMDb на удаленном сервере через Docker и GitHub Actions. Cпринт №11 Яндекс.Практикум.
+Запуск проекта YaMDb на удаленном сервере через Docker и GitHub Actions. Cпринт №12 Яндекс.Практикум.
 ### Технологии
 Python, Django, DRF, Docker, Linux, GitHub Actions
 
