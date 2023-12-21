@@ -1,14 +1,14 @@
 # Yamdb API with CI/CD pipeline
 
 ### Description
-The YaMDb project collects user reviews of works of art
+The YaMDb project collects user reviews of artworks
 
-### Quick Start backend
+### Quick Start
 1. Clone repo
 ```bash
 git clone git@github.com:Evgeniy-Golodnykh/yamdb_CI_CD.git
 ```
-2. Creates a virtual environment
+2. Creates the virtual environment
 ```bash
 python3 -m venv venv
 ```
@@ -21,11 +21,11 @@ source venv/bin/activate
 python3 -m pip install --upgrade pip
 python3 -m pip install -r requirements.txt
 ```
-5. To create database use command
+5. To create the database use command
 ```bash
 python3 manage.py migrate
 ```
-6. To fill database use command
+6. To fill the database use command
 ```bash
 python3 manage.py filldatabase
 ```
