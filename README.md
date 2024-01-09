@@ -6,7 +6,7 @@ The YaMDb project collects user reviews of artworks
 ### Quick Start
 1. Clone repo
 ```bash
-git clone git@github.com:Evgeniy-Golodnykh/yamdb_CI_CD.git
+git clone git@github.com:Evgeniy-Golodnykh/yamdb.git
 ```
 2. Creates the virtual environment
 ```bash
