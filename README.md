@@ -1,4 +1,4 @@
-# Yamdb API with CI/CD pipeline
+# Yamdb
 
 ### Description
 The YaMDb project collects user reviews of artworks
